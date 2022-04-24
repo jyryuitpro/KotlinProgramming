@@ -1,4 +1,4 @@
-package chap03.section3.highOrder2
+package chap03.section3.highorder2
 
 fun main() {
     var result: Int
